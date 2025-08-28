@@ -39,8 +39,7 @@ temperature = st.sidebar.slider("Temperature (creativity)", 0.1,1.0,0.3,
 max_tokens = st.sidebar.slider("Max Tokens", 200,600,400)
 
 # 🔥 Editable System Prompt
-default_prompt = """
-You are a careful, friendly medical assistant.  
+default_prompt = """You are a careful, friendly medical assistant.  
 Rules:  
 - Always answer in exactly 6 steps with numbering:  
   1) Summary 
@@ -176,5 +175,6 @@ st.download_button(
 
 st.sidebar.markdown("---")  
 st.sidebar.markdown("👩‍💻 **Developed by Bushra**")
+
 
 
