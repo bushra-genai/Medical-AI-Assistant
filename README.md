@@ -37,7 +37,7 @@ It gives structured responses in multiple steps, making it easy for users to und
 
 ---
 
-nstallation
+Installation
 
 Clone this repo:
 
