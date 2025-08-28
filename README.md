@@ -64,6 +64,22 @@ streamlit run app.py
 The app will open in your browser (default: http://localhost:8501
 ).
 
+
+🔑 API Key Requirement
+
+This app requires a Groq API key to work.
+
+Get your free API key from Groq Console
+.
+
+Enter the key in the sidebar of the app under "API Key".
+
+Your key will only be used locally in your session (not stored).
+
+⚠️ Note: The developer’s API key is not shared.
+Each user must provide their own Groq API key.
+
+
 Developed By
 
 Bushra Sarwar
