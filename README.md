@@ -1,7 +1,11 @@
 <img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/8da72dbb-d807-4dff-9844-fe4111aa4c65" />
 
 
-# AI Medical Assistant  
+# 🩺 AI Medical Assistant  
+
+[![Live App](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://ai-medical-assistant-bushra.streamlit.app/)
+
+
 
 AI Medical Assistant is a smart and interactive chatbot designed to provide **general medical guidance** using advanced AI models (powered by Groq).  
 It gives structured responses in multiple steps, making it easy for users to understand their condition and take basic precautionary measures.  
