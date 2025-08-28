@@ -1,3 +1,6 @@
+<img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/8da72dbb-d807-4dff-9844-fe4111aa4c65" />
+
+
 # AI Medical Assistant  
 
 AI Medical Assistant is a smart and interactive chatbot designed to provide **general medical guidance** using advanced AI models (powered by Groq).  
@@ -33,3 +36,39 @@ It gives structured responses in multiple steps, making it easy for users to und
 - **Environment:** `.env` for API keys  
 
 ---
+
+nstallation
+
+Clone this repo:
+
+git clone https://github.com/your-username/ai-medical-assistant.git
+cd ai-medical-assistant
+
+
+Create a virtual environment and install dependencies:
+
+pip install -r requirements.txt
+
+
+Create a .env file in the project root with your API keys:
+
+OPENAI_API_KEY=your_openai_api_key_here
+GROQ_API_KEY=your_groq_api_key_here
+
+Usage
+
+Run the app with:
+
+streamlit run app.py
+
+
+The app will open in your browser (default: http://localhost:8501
+).
+
+Developed By
+
+Bushra Sarwar
+
+License
+
+This project is licensed under the MIT License — free to use, modify, and share.
