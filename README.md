@@ -41,8 +41,7 @@ nstallation
 
 Clone this repo:
 
-git clone https://github.com/your-username/ai-medical-assistant.git
-cd ai-medical-assistant
+git clone https://github.com/bushra-genai/Medical-AI-Assistant
 
 
 Create a virtual environment and install dependencies:
