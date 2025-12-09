@@ -28,9 +28,7 @@ st.sidebar.title("⚙️ Settings")
 api_key = st.sidebar.text_input("Groq API Key", type="password", help="Get it from console.groq.com")
 
 MODEL_OPTIONS = [
-    "llama3-70b-8192",
-    "llama3-8b-8192",
-    "gemma2-9b-it",
+    "llama-3.1-8b-instant"
 ]
 model_name = st.sidebar.selectbox("Groq Model", MODEL_OPTIONS, index=0)
 
@@ -175,6 +173,7 @@ st.download_button(
 
 st.sidebar.markdown("---")  
 st.sidebar.markdown("👩‍💻 **Developed by Bushra**")
+
 
 
 
